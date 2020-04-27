@@ -10,5 +10,23 @@
   ],
   "users": {
     "name": "Anique"
-  }
+  },
+  "listing":[
+    {
+      "id": 1, 
+      "additionalInfo" : "no dogs allowed",
+      "address" : "123 San Fernando ST",
+      "city" : "San Jose",
+      "description" : "1 bed room available for rent near SJSU",
+      "email" : "davidtaylor@gmail.com",
+      "imagesUrls" : [ "https://firebasestorage.googleapis.com/v0/b/community-housing-c73c2.appspot.com/o/HouseImages%2Flarge-7-07c4dc.jpg?alt=media&token=cf327fec-cb51-431f-92db-da16b6644ea1" ],
+      "minimumStay" : "6 Months",
+      "numberOfBaths" : "1",
+      "numberOfRooms" : "1",
+      "posterId" : "BX2xFI64A9R7hz4fTpX68q0WW242",
+      "posterName" : "David Taylor",
+      "reantCost" : "1500",
+      "zipcode" : "95112"
+    }
+  ]
 }
