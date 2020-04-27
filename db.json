@@ -6,7 +6,7 @@
   ],
   "listings": [
     { "id": 1, "numberOfListings": 200, "popularListingID": "KDFHE3u723", "averageRent":1321.25, "lowRent":705, "highRent":1932},
-    { "id": 2, "numberOfListings": 50, "popularListingID": "IEWMC1329", "averageRent":1112.25, "lowRent":501, "highRent":16}}
+    { "id": 2, "numberOfListings": 50, "popularListingID": "IEWMC1329", "averageRent":1112.25, "lowRent":501, "highRent":16}
   ],
   "users": {
     "name": "Anique"
