@@ -1,8 +1,8 @@
 {
   "communities": [
-    { "id": 1, "title": "Muslim Community" },
-    { "id": 2, "title": "SJSU" },
-    { "id": 3, "title": "Indian Community" }
+    { "id": 1, "name": "Muslim Community", "dateCreated":"", "numberOfListings": 200, "popularListingID": "KDFHE3u723", "averageRent":1321.25, "lowRent":705, "highRent":2932},
+    { "id": 2, "name": "SJSU", "dateCreated":"", "popularListingID": "ICNW239acn", "averageRent":1093.25, "lowRent"789, "highRent":1900},
+    { "id": 3, "name": "Indian Community",  "dateCreated":"","popularListingID": "IEWMC1329", "averageRent":1112.25, "lowRent":501, "highRent":1600}
   ],
   "listings": [
     { "id": 1, "numberOfListings": 200, "popularListingID": "KDFHE3u723", "averageRent":1321.25, "lowRent":705, "highRent":1932},
