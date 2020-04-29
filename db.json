@@ -1,8 +1,8 @@
 {
   "communities": [
-    { "id": 1, "name": "Muslim Community", "dateCreated":"16 Mar, 2020", "numberOfListings": 200, "popularListingID": "KDFHE3u723", "averageRent":1321.25, "lowRent":705, "highRent":2932},
-    { "id": 2, "name": "SJSU", "dateCreated":"19 Feb, 2020", "popularListingID": "ICNW239acn", "averageRent":1093.25, "lowRent":789, "highRent":1900},
-    { "id": 3, "name": "Indian Community",  "dateCreated":"02 Jan, 2020","popularListingID": "IEWMC1329", "averageRent":1112.25, "lowRent":501, "highRent":1600}
+    { "id": 1, "name": "Muslim Community", "dateCreated":"16 Mar, 2020", "numberOfListings": 494, "popularListingID": "KDFHE3u723", "averageRent":1321.25, "lowRent":705, "highRent":2932},
+    { "id": 2, "name": "SJSU", "dateCreated":"19 Feb, 2020", "numberOfListings": 642, "popularListingID": "ICNW239acn", "averageRent":1093.25, "lowRent":789, "highRent":1900},
+    { "id": 3, "name": "Indian Community",  "dateCreated":"02 Jan, 2020", "numberOfListings": 920, "popularListingID": "IEWMC1329", "averageRent":1112.25, "lowRent":501, "highRent":1600}
   ],
   "listings": [
     { "id": 1, "numberOfListings": 200, "popularListingID": "KDFHE3u723", "averageRent":1321.25, "lowRent":705, "highRent":1932},
