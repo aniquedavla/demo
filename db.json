@@ -8,33 +8,12 @@
     { "id": 1, "numberOfListings": 200, "popularListingID": "KDFHE3u723", "averageRent":1321.25, "lowRent":705, "highRent":1932},
     { "id": 2, "numberOfListings": 50, "popularListingID": "IEWMC1329", "averageRent":1112.25, "lowRent":501, "highRent":16}
   ],
-  "users": {
-    "name": "Anique"
-  },
   "highLevelData": {
     "numberOfCommunities": 3,
     "totalNumberOfListings": 2341,
     "totalRegisteredUsers": 3850,
     "totalPageViews": 89903
   },
-  "listing":[
-    {
-      "id": 1, 
-      "additionalInfo" : "no dogs allowed",
-      "address" : "123 San Fernando ST",
-      "city" : "San Jose",
-      "description" : "1 bed room available for rent near SJSU",
-      "email" : "davidtaylor@gmail.com",
-      "imagesUrls" : [ "https://firebasestorage.googleapis.com/v0/b/community-housing-c73c2.appspot.com/o/HouseImages%2Flarge-7-07c4dc.jpg?alt=media&token=cf327fec-cb51-431f-92db-da16b6644ea1" ],
-      "minimumStay" : "6 Months",
-      "numberOfBaths" : "1",
-      "numberOfRooms" : "1",
-      "posterId" : "BX2xFI64A9R7hz4fTpX68q0WW242",
-      "posterName" : "David Taylor",
-      "reantCost" : "1500",
-      "zipcode" : "95112"
-    }
-  ],
   "newUsersByMonth" : [
     {
       "month": "Jan",
