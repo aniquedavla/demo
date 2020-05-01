@@ -36,53 +36,25 @@
     }
   ],
   "newUsersByMonth" : [
-  {
-    "month": "Jan",
-    "amount": 50
-  },
-  {
-    "month": "Feb",
-    "amount": 300
-  },
-  {
-    "month": "Mar",
-    "amount": 600
-  },
-  {
-    "month": "Apr",
-    "amount": 800
-  },
-  {
-    "month": "May",
-    "amount": 1500
-  },
-  {
-    "month": "Jun",
-    "amount": 2000
-  },
-  {
-    "month": "Jul",
-    "amount": 2590
-  },
-  {
-    "month": "Aug",
-    "amount": 2900
-  },
-  {
-    "month": "Sep",
-    "amount": 4020
-  },
-  {
-    "month": "Oct",
-    "amount": 5500
-  },
-  {
-    "month": "Nov",
-    "amount": 7500
-  },
-  {
-    "month": "Dec",
-    "amount": 9500
-  }
-]
+    {
+      "month": "Jan",
+      "amount": 50
+    },
+    { 
+      "month": "Feb",
+      "amount": 300
+    },
+    {
+      "month": "Mar",
+      "amount": 600
+    },
+    {
+      "month": "Apr",
+      "amount": 800
+    },
+    {
+      "month": "May",
+      "amount": 1500
+    }
+  ]
 }
