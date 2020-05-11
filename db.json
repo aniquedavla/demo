@@ -4,9 +4,9 @@
     { "id": 2, "name": "SJSU", "dateCreated":"19 Feb, 2020", "numberOfListings": 642, "popularListingID": "ICNW239acn", "averageRent":1093.25, "lowRent":789, "highRent":1900},
     { "id": 3, "name": "Indian Community",  "dateCreated":"02 Jan, 2020", "numberOfListings": 920, "popularListingID": "IEWMC1329", "averageRent":1112.25, "lowRent":501, "highRent":1600}
   ],
-  "listings": [
-    { "id": 1, "numberOfListings": 200, "popularListingID": "KDFHE3u723", "averageRent":1321.25, "lowRent":705, "highRent":1932},
-    { "id": 2, "numberOfListings": 50, "popularListingID": "IEWMC1329", "averageRent":1112.25, "lowRent":501, "highRent":16}
+  "notes": [
+    { "id": 1, "noteBy": "Anique Davla", "subject": "Abduallah's awesomeness", "note":"Vinh is so cool but Abdullah is awesome"},
+    { "id": 2, "noteBy": "Rich", "subject": "Anique not awesomeness", "note":"Abdullah is so cool but Vinh is awesome"}
   ],
   "highLevelData": {
     "numberOfCommunities": 3,
